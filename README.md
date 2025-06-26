@@ -1,1 +1,1 @@
-# SQL-TASK-3
+This project shows how to use basic SQL queries to get data from a Library Management System. It includes simple examples of how to fetch all records, select certain columns, filter results using conditions like WHERE, LIKE, and BETWEEN, and sort the output using ORDER BY.
